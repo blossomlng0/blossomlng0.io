@@ -1,6 +1,4 @@
-# blossomlng0.io
-
-# 🚀 Park Hee-woo | AI Engineer
+# 🚀 Park Hui woo | AI Engineer
 
 > **"데이터 기반 도시 문제 해결과 지능형 에이전트 시스템 설계를 지향하는 AI 엔지니어입니다."**
 
