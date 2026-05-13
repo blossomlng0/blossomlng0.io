@@ -5,20 +5,6 @@
 
 ---
 
-## 🛠 Technical Skills
-
-### **Agentic AI & Engineering**
-* **Frameworks:** `LangChain`, `LangGraph`, `LangSmith` (Monitoring & Tracing)
-* **Agent Architecture:** `Planner-Executor-Critic`, `Multi-Agent Workflow`, `Supervisor-based Control`
-* **Design Docs:** Workflow/State/Decision Policy/Prompt Specification
-
-### **Machine Learning & Data Science**
-* **Languages:** `Python` (Pandas, Numpy), `SQL` (Query & DB Design)
-* **Modeling:** `XGBoost`, `LightGBM`, `Random Forest`, `Scikit-learn`, `TensorFlow`
-* **Techniques:** `Feature Engineering`, `Hyperparameter Tuning (GridSearchCV)`, `StandardScaler`
-
----
-
 ## 📂 Featured Projects
 
 ### **1. LangSmith 기반 실시간 리뷰 분석 Multi-Agent 서비스**
@@ -55,6 +41,20 @@
    * 클래스 불균형 문제를 해결하기 위한 샘플링 전략과 하이퍼파라미터 튜닝을 수행하며, 성능 지표 기반의 객관적인 모델 평가 및 고도화 프로세스를 체득했습니다.
    * 분석 과정을 함수화하여 지속 가능한 파이프라인을 구축하는 소프트웨어 엔지니어링 마인드의 중요성을 이해하고 실천했습니다.
 * **Tech:** `Scikit-learn`, `Deep Learning`, `Pipeline Automation`
+
+---
+
+## 🛠 Technical Skills
+
+### **Agentic AI & Engineering**
+* **Frameworks:** `LangChain`, `LangGraph`, `LangSmith` (Monitoring & Tracing)
+* **Agent Architecture:** `Planner-Executor-Critic`, `Multi-Agent Workflow`, `Supervisor-based Control`
+* **Design Docs:** Workflow/State/Decision Policy/Prompt Specification
+
+### **Machine Learning & Data Science**
+* **Languages:** `Python` (Pandas, Numpy), `SQL` (Query & DB Design)
+* **Modeling:** `XGBoost`, `LightGBM`, `Random Forest`, `Scikit-learn`, `TensorFlow`
+* **Techniques:** `Feature Engineering`, `Hyperparameter Tuning (GridSearchCV)`, `StandardScaler`
 
 ---
 
