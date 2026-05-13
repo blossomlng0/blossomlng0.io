@@ -39,7 +39,45 @@
 - **Key Actions:** - 전처리 파이프라인 함수화를 통한 재사용 가능 구조 설계.
   - 클래스 불균형 문제 해결 및 변수 중요도 분석.
 - **Tech:** `TensorFlow`, `Deep Learning`, `Pipeline Automation`
+# 🚀 Park Hee-woo | AI Engineer
 
+> **"데이터 기반 도시 문제 해결과 지능형 에이전트 시스템 설계를 지향하는 AI 엔지니어입니다."**
+
+## 🛠 Tech Stack
+
+### 📊 Data Analysis & AI
+- **Languages:** `Python`, `SQL`
+- **ML/DL:** `Scikit-learn`, `XGBoost`, `LightGBM`, `TensorFlow`, `Keras`
+- **Libraries:** `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`
+- **Specialty:** `Model Optimization (GridSearchCV)`, `Feature Engineering`, `AI Agent Design`
+
+---
+
+## 📂 Key Projects
+
+### 🏙️ 서울시 자치구별 과밀 스코어 예측 모델
+- **Description:** 4가지 이종 데이터(교통, 경제, 주거, 공간)를 통합하여 실질적 도시 혼잡도를 측정하는 '과밀 스코어' 산출 및 예측 모델링.
+- **Key Actions:** - `StandardScaler`를 이용한 데이터 정규화 및 전처리 파이프라인 구축.
+  - `GridSearchCV`를 활용하여 XGBoost, LightGBM 등 다양한 모델의 하이퍼파라미터 최적화.
+  - 자치구 특성을 반영한 독자적인 스코어링 공식 설계 및 상관분석 수행.
+
+### 🤖 지능형 에이전트 시스템 (Agentic AI)
+- **Description:** Planner-Executor-Critic 구조의 멀티 에이전트 워크플로우 설계.
+- **Key Actions:** - 단계별 에이전트 역할 정의 및 피드백 루프 아키텍처 기획.
+  - 작업 정확도 향상을 위한 에이전트 간 데이터 교환 시나리오 최적화.
+
+### ✈️ 항공사 고객 만족도 및 성능 비교 분석
+- **Description:** 다양한 ML 알고리즘을 활용한 만족도 예측 및 성능 비교 평가.
+- **Key Actions:** - Logistic Regression부터 앙상블 모델까지 성능 지표(Accuracy, F1-score 등) 기반 비교 분석.
+  - 전처리 파이프라인 함수화를 통한 실험 재현성 확보.
+
+---
+
+## 🎓 Education & Activities
+- **KT AIVLE School:** AI 트랙 이수 (AI 모델링 및 프로젝트 수행)
+- **Keywords:** `#탐구심` `#데이터_최적화` `#논리적사고`
+
+---
 ---
 
 ## 🎓 Education & Activities
