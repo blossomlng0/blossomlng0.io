@@ -62,4 +62,4 @@
 ---
 
 ## 📫 Contact
-* **Email**: hwoo.park@email.com
+* **Email**: gmldn6@gmail.com
