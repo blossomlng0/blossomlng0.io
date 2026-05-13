@@ -2,8 +2,6 @@
 
 > **"데이터 기반 도시 문제 해결과 지능형 에이전트 시스템 설계를 지향하는 AI 엔지니어입니다."**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://tistory.com/)
 
 ---
 
