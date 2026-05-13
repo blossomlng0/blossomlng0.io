@@ -46,13 +46,6 @@
 
 ---
 
-## 📜 Design Documents & Works
-* **[설계문서] Workflow & State 정의서**: 에이전트 간 데이터 흐름 및 상태 관리 로직 구조화.
-* **[설계문서] Decision Policy & Prompt 명세서**: 의사결정 규칙 및 에이전트 가이드라인 최적화.
-* **[구현코드] ML Pipeline (IPYNB)**: 하이퍼파라미터 튜닝 및 모델 비교 분석 과정 포함.
-
----
-
 ## 🎓 Education & Keywords
 * **KT AIVLE School:** AI 트랙 이수
 * **#설계능력**: 명세서 기반의 투명한 AI 시스템 구축
