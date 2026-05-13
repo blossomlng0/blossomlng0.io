@@ -35,6 +35,7 @@
 * **Trouble Shooting**:
     * **문제**: 데이터 출처별 스케일 차이로 인한 모델 편향 발생.
     * **해결**: `StandardScaler` 기반 정규화 및 `Feature Engineering`을 통해 데이터 일관성 확보.
+    * **결과**: 교통, 경제, 주거, 공간 등 4개 영역의 이종 데이터를 통합하여 자치구별 실질 혼잡도를 정량화한 '과밀 스코어'를 산출하고 시각화함.
 * **Tech:** `Python`, `XGBoost`, `LightGBM`, `Seaborn (Correlation Heatmap)`
 
 ### **3. 항공사 고객 만족도 예측 및 머신러닝 파이프라인 최적화**
