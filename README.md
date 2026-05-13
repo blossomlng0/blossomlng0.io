@@ -1,91 +1,65 @@
-# 🚀 Park Hui woo | AI Engineer
-
-> **"데이터 기반 도시 문제 해결과 지능형 에이전트 시스템 설계를 지향하는 AI 엔지니어입니다."**
-
-
----
-
-## 🛠 Tech Stack
-
-### 📊 Data Analysis & AI
-- **Languages:** `Python`, `SQL`
-- **Libraries:** `Pandas`, `Numpy`, `Scikit-learn`, `TensorFlow`, `Keras`
-- **Visualization:** `Seaborn`, `Matplotlib`
-- **Specialty:** `AI Agent Architecture (Planner-Executor-Critic)`, `Feature Engineering`
-
-### ⚙️ Tools & DevOps
-- **VCS:** `Git`, `GitHub`
-- **Database:** `SQL (Query Design)`
-- **Collaboration:** `Notion`, `Slack`
-
----
-
-## 📂 Key Projects
-
-### 🏙️ 서울시 자치구별 과밀 스코어 예측 모델
-- **Description:** 4가지 이종 데이터(교통, 경제, 주거, 공간)를 통합하여 실질적 도시 혼잡도를 측정하는 '과밀 스코어' 산출 및 예측 모델링.
-- **Key Actions:** - `Seaborn` 히트맵을 활용한 변수 간 상관관계 분석 및 핵심 Feature 추출.
-  - 자치구 특성을 반영한 독자적인 스코어링 공식 설계.
-- **Tech:** `Python`, `Scikit-learn`, `Seaborn`, `Multivariate Analysis`
-
-### 🤖 지능형 에이전트 시스템 (Agentic AI)
-- **Description:** Planner-Executor-Critic 구조의 멀티 에이전트 워크플로우 설계.
-- **Key Actions:** - 단계별 에이전트 역할 정의 및 피드백 루프 아키텍처 기획.
-  - 성능 및 정답성 이슈 해결을 위한 가이드라인 로직 설계.
-- **Tech:** `System Design`, `Workflow Automation`, `Logic Optimization`
-
-### ✈️ 항공사 고객 만족도 예측 및 서비스 개선
-- **Description:** 딥러닝 기반 고객 만족도 영향 요인 도출 및 불만족 고객 예측 성능 개선.
-- **Key Actions:** - 전처리 파이프라인 함수화를 통한 재사용 가능 구조 설계.
-  - 클래스 불균형 문제 해결 및 변수 중요도 분석.
-- **Tech:** `TensorFlow`, `Deep Learning`, `Pipeline Automation`
 # 🚀 Park Hee-woo | AI Engineer
 
-> **"데이터 기반 도시 문제 해결과 지능형 에이전트 시스템 설계를 지향하는 AI 엔지니어입니다."**
+> **"데이터 기반 도시 문제 해결부터 복잡한 Multi-Agent 아키텍처 설계 및 구현까지, AI의 실전적 가치를 증명합니다."**
 
-## 🛠 Tech Stack
-
-### 📊 Data Analysis & AI
-- **Languages:** `Python`, `SQL`
-- **ML/DL:** `Scikit-learn`, `XGBoost`, `LightGBM`, `TensorFlow`, `Keras`
-- **Libraries:** `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`
-- **Specialty:** `Model Optimization (GridSearchCV)`, `Feature Engineering`, `AI Agent Design`
 
 ---
 
-## 📂 Key Projects
+## 🛠 Technical Skills
 
-### 🏙️ 서울시 자치구별 과밀 스코어 예측 모델
-- **Description:** 4가지 이종 데이터(교통, 경제, 주거, 공간)를 통합하여 실질적 도시 혼잡도를 측정하는 '과밀 스코어' 산출 및 예측 모델링.
-- **Key Actions:** - `StandardScaler`를 이용한 데이터 정규화 및 전처리 파이프라인 구축.
-  - `GridSearchCV`를 활용하여 XGBoost, LightGBM 등 다양한 모델의 하이퍼파라미터 최적화.
-  - 자치구 특성을 반영한 독자적인 스코어링 공식 설계 및 상관분석 수행.
+### **Agentic AI & Engineering**
+* **Frameworks:** `LangChain`, `LangGraph`, `LangSmith` (Monitoring & Tracing)
+* **Agent Architecture:** `Planner-Executor-Critic`, `Multi-Agent Workflow`, `Supervisor-based Control`
+* **Design Docs:** Workflow/State/Decision Policy/Prompt Specification
 
-### 🤖 지능형 에이전트 시스템 (Agentic AI)
-- **Description:** Planner-Executor-Critic 구조의 멀티 에이전트 워크플로우 설계.
-- **Key Actions:** - 단계별 에이전트 역할 정의 및 피드백 루프 아키텍처 기획.
-  - 작업 정확도 향상을 위한 에이전트 간 데이터 교환 시나리오 최적화.
-
-### ✈️ 항공사 고객 만족도 및 성능 비교 분석
-- **Description:** 다양한 ML 알고리즘을 활용한 만족도 예측 및 성능 비교 평가.
-- **Key Actions:** - Logistic Regression부터 앙상블 모델까지 성능 지표(Accuracy, F1-score 등) 기반 비교 분석.
-  - 전처리 파이프라인 함수화를 통한 실험 재현성 확보.
+### **Machine Learning & Data Science**
+* **Languages:** `Python` (Pandas, Numpy), `SQL` (Query & DB Design)
+* **Modeling:** `XGBoost`, `LightGBM`, `Random Forest`, `Scikit-learn`, `TensorFlow`
+* **Techniques:** `Feature Engineering`, `Hyperparameter Tuning (GridSearchCV)`, `StandardScaler`
 
 ---
 
-## 🎓 Education & Activities
-- **KT AIVLE School:** AI 트랙 이수 (AI 모델링 및 프로젝트 수행)
-- **Keywords:** `#탐구심` `#데이터_최적화` `#논리적사고`
+## 📂 Featured Projects
+
+### **1. LangSmith 기반 실시간 리뷰 분석 Multi-Agent 서비스**
+* **개요**: 화장품 속성별(보습/향/가격/포장) 감성 분석 및 근거 추출을 위한 자율형 멀티 에이전트 시스템.
+* **핵심 구현**:
+    * **Workflow 설계**: `Planner-Analyzer-Evidence Extractor-Critic` 구조의 워크플로우 명세서 및 State 정의.
+    * **검증 로직**: `Critic` 에이전트를 통한 분석 결과 자가 검토 및 `Supervisor` 기반 재시도(Retry) 제어.
+    * **모니터링**: `LangSmith`를 활용하여 에이전트 실행 Trace 추적 및 실패 케이스 원인 분석.
+    * **프롬프트 고도화**: 페르소나 및 제약사항이 반영된 `Prompt 명세서` 기반의 정밀 분석 수행.
+* **Tech:** `LangGraph`, `LangSmith`, `GPT-4o-mini`, `SQLite`, `Streamlit`
+
+### **2. 서울시 자치구별 멀티 도메인 데이터 기반 과밀 스코어 예측**
+* **개요**: 교통, 경제, 주거, 공간 이종 데이터를 통합하여 도시 혼잡도를 측정하는 '과밀 스코어' 산출 모델.
+* **Trouble Shooting**:
+    * **문제**: 데이터 출처별 스케일 차이로 인한 모델 편향 발생.
+    * **해결**: `StandardScaler` 기반 정규화 및 `Feature Engineering`을 통해 데이터 일관성 확보.
+* **Tech:** `Python`, `XGBoost`, `LightGBM`, `Seaborn (Correlation Heatmap)`
+
+### **3. 항공사 고객 만족도 예측 및 머신러닝 파이프라인 최적화**
+* **개요**: 항공 서비스 지표를 활용한 고객 만족도 예측 및 서비스 개선 우선순위 도출.
+* **Trouble Shooting**:
+    * **문제**: 만족 고객 데이터 편중(클래스 불균형)으로 인한 불만족 고객 예측력 저하.
+    * **해결**: `GridSearchCV` 최적화 및 전처리 과정을 함수화하여 실험 재현성 및 정답률 향상.
+* **Tech:** `Scikit-learn`, `Deep Learning`, `Pipeline Automation`
 
 ---
+
+## 📜 Design Documents & Works
+* **[설계문서] Workflow & State 정의서**: 에이전트 간 데이터 흐름 및 상태 관리 로직 구조화.
+* **[설계문서] Decision Policy & Prompt 명세서**: 의사결정 규칙 및 에이전트 가이드라인 최적화.
+* **[구현코드] ML Pipeline (IPYNB)**: 하이퍼파라미터 튜닝 및 모델 비교 분석 과정 포함.
+
 ---
 
-## 🎓 Education & Activities
-- **KT AIVLE School:** AI 트랙 이수 (AI 모델링 및 프로젝트 수행)
-- **Keywords:** `#탐구심` `#정확성` `#논리적사고`
+## 🎓 Education & Keywords
+* **KT AIVLE School:** AI 트랙 이수
+* **#설계능력**: 명세서 기반의 투명한 AI 시스템 구축
+* **#최적화**: 데이터 전처리부터 모델 튜닝까지의 전 과정 최적화
+* **#논리적사고**: 복잡한 비즈니스 로직을 에이전트 협업 구조로 변환
 
 ---
 
 ## 📫 Contact
-- **Email:** hwoo.park@email.com
-- **LinkedIn:** [linkedin.com/in/park-heewoo](https://linkedin.com/in/park-heewoo)
+* **Email**: hwoo.park@email.com
