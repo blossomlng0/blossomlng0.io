@@ -1,4 +1,4 @@
-# 🚀 Park Hee-woo | AI Engineer
+# 🚀 Park Hui-woo | AI Engineer
 
 > **"데이터 기반 도시 문제 해결부터 복잡한 Multi-Agent 아키텍처 설계 및 구현까지, AI의 실전적 가치를 증명합니다."**
 
